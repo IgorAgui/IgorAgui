@@ -1,184 +1,33 @@
-<!DOCTYPE html>
-<html lang="en">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Titan+One&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=Igor+Aguiar)](https://git.io/typing-svg)
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Capa</title>
+<h2 align=center>Olá eu sou o Igor Aguiar, estudante de programação e tecnologia! </h2>
 
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Monoton&family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+<div align=center>
+<img align=center src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img align=center src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img align=center src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
+<br>
 
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            text-decoration: none;
-            border: none;
-            outline: none;
-            scroll-behavior: smooth;
-            font-family: 'Poppins', sans-serif;
-        }
+<div align=center>
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9c7cb502-16c1-4ca1-b9fc-1007623bbda7/dbwshux-02e166ea-9e75-4c7b-9803-be8296ca4355.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzljN2NiNTAyLTE2YzEtNGNhMS1iOWZjLTEwMDc2MjNiYmRhN1wvZGJ3c2h1eC0wMmUxNjZlYS05ZTc1LTRjN2ItOTgwMy1iZTgyOTZjYTQzNTUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.atvCD1mCFCYxdCsVofpROfihF69Jx9O9Q5XVWa_-ydU">
+</div>
 
-        body {
-            background-color: var(--bg-color);
-        }
+<br>
 
-        :root {
-            --bg-color: #1f242d;
-            --second-bg-color: #323946;
-            --text-color: #fff;
-            --main-color: #0ef;
-        }
+<div align=center>
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"> <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
+</div>
 
-        header {
-            display: flex;
-            justify-content: center;
-        }
+<hr>
 
-        header h2 {
-            color: var(--main-color);
-            text-align: center;
-            font-size: 40px;
-            margin-top: 20px;
-        }
+<div align=center>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://www.linkedin.com/in/igoraguiamg/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+</div>
 
-        .mid h1 {
-            text-align: center;
-            margin-top: 50px;
-            color: var(--text-color);
-        }
+<div  align=center>
+<a href="https://github.com/IgorAgui">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IgorAgui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-        .mid img {
-            width: 22vw;
-            justify-content: center;
-            margin: 5% 40% 0 40%;
-            animation: floatImage 4s ease-in-out infinite;
-        }
-
-        @keyframes floatImage {
-            0% {
-                transform: translateY(0);
-            }
-
-            50% {
-                transform: translateY(-2.4rem);
-            }
-
-            100% {
-                transform: translateY(0);
-            }
-        }
-
-        /*                            Section 2                                                     */
-        .section2 {
-            display: flex;
-            margin-left: 2%;
-        }
-
-        .habilidade {
-            width: 48%;
-        }
-
-        .habilidade h1 {
-            color: var(--main-color);
-            text-align: center;
-            font-size: 2rem;
-        }
-
-        .icons1 {
-            padding-left: 28%;
-        }
-
-        .habilidade a {
-            display: inline-flex;
-            justify-content: center;
-            align-items: center;
-            width: 4rem;
-            height: 4rem;
-            background: transparent;
-            border: .2rem solid var(--main-color);
-            border-radius: 50%;
-            font-size: 2rem;
-            color: var(--main-color);
-            margin: 3rem 1.5rem 3rem 0;
-            transition: .5s ease;
-        }
-
-        .habilidade a:hover {
-            background: var(--main-color);
-            color: var(--second-bg-color);
-            box-shadow: 0 0 1rem var(--main-color);
-        }
-
-        .icons2 {
-            padding-left: 39%;
-        }
-    </style>
-
-    <!-- Box Icons -->
-    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
-
-</head>
-
-<body>
-
-    <header>
-
-        <h2> Igor Aguiar <span class="multiple-text"> </span> </h2>
-
-    </header>
-
-    <main>
-        <section>
-            <div class="mid">
-                <h1>Olá eu sou o Igor Aguiar, estudante de programação e tecnologia!</h1>
-
-                <img src="https://github.com/IgorAgui/ONE-Challenge1/blob/main/assets/img/eagle%20red.png?raw=true"
-                    alt="">
-            </div>
-        </section>
-
-        <section class="section2">
-            <div class="habilidade">
-                <h1>Habilidades</h1>
-                <div class="icons1">
-                    <a href=""><i class='bx bxl-html5'></i></a>
-                    <a href=""><i class='bx bxl-css3'></i></a>
-                    <a href=""><i class='bx bxl-javascript'></i></a>
-                    <a href=""><i class='bx bxl-java'></i></a>
-                </div>
-            </div>
-
-            <div class="habilidade">
-                <h1>Redes Sociais</h1>
-                <div class="icons1 icons2">
-                    <a href=""><i class='bx bxl-linkedin'></i></a>
-                    <a href=""><i class='bx bxl-gmail'></i></a>
-                </div>
-            </div>
-
-        </section>
-
-    </main>
-    <!-- Typed js -->
-
-    <script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
-
-    <script>
-
-        //  Typed Js 
-
-        const typed = new Typed('.multiple-text', {
-            strings: ['Frontend Developer', 'Backend Developer', 'Vascaíno!!!'],
-            typeSpeed: 100,
-            backSpeed: 100,
-            backDelay: 1000,
-            loop: true
-        });
-    </script>
-
-</body>
-
-</html>
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IgorAgui&layout=compact&langs_count=8&theme=dracula"/>
+ </div>
+ 
