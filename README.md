@@ -7,7 +7,7 @@
 ## Linguagens de programação <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="20px">
 <div style="display: flex; justify-content: space-between;">
 <img width="90" height="90" src="https://img.icons8.com/plasticine/100/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
-<img width="86" height="86" src="https://img.icons8.com/color/96/mysql-logo.png" alt="mysql-logo"/>
+<img width="90" height="90" src="https://img.icons8.com/external-bearicons-glyph-bearicons/64/external-SQL-file-extension-bearicons-glyph-bearicons.png" alt="external-SQL-file-extension-bearicons-glyph-bearicons"/>
 <img width="86" height="86" src="https://img.icons8.com/arcade/128/javascript.png" alt="javascript"/>
 <img src = "https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width = 100px height=100px>
 </div>
@@ -20,6 +20,7 @@
 <img width="" height="40" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=green"/>
 <img width="86" height="86" src="https://img.icons8.com/nolan/96/markdown.png" alt="markdown"/>
 <img width="80" height="80" src="https://img.icons8.com/ultraviolet/80/json.png" alt="json"/>
+<img width="86" height="86" src="https://img.icons8.com/color/96/mysql-logo.png" alt="mysql-logo"/>
 </div>
 
 ## IDEs <img src = "https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Statistics.gif" width = 25px>
