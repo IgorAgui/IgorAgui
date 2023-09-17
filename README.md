@@ -1,28 +1,36 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Titan+One&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=Igor+Aguiar)](https://git.io/typing-svg)
 
 <h2 align=center>Olá eu sou o Igor Aguiar, estudante de programação e tecnologia! </h2>
-
-<div align=center>
-<img align=center src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img align=center src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img align=center src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img align=center src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</div>
 <br>
 
-<div align=center>
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9c7cb502-16c1-4ca1-b9fc-1007623bbda7/dbwshux-02e166ea-9e75-4c7b-9803-be8296ca4355.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzljN2NiNTAyLTE2YzEtNGNhMS1iOWZjLTEwMDc2MjNiYmRhN1wvZGJ3c2h1eC0wMmUxNjZlYS05ZTc1LTRjN2ItOTgwMy1iZTgyOTZjYTQzNTUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.atvCD1mCFCYxdCsVofpROfihF69Jx9O9Q5XVWa_-ydU">
+
+## Linguagens de programação <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="20px">
+<div style="display: flex; justify-content: space-between;">
+<img width="90" height="90" src="https://img.icons8.com/plasticine/100/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
+<img width="86" height="86" src="https://img.icons8.com/color/96/mysql-logo.png" alt="mysql-logo"/>
+<img width="86" height="86" src="https://img.icons8.com/arcade/128/javascript.png" alt="javascript"/>
+<img src = "https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width = 100px height=100px>
 </div>
 
+## Tecnologias e Frameworks <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture>
+<div style="display: flex; justify-content: space-between;">
+<img width="86" height="86" src="https://img.icons8.com/color-glass/96/html-filetype.png" alt="html-filetype"/>
+<img width="86" height="86" src="https://img.icons8.com/dusk/128/css3.png" alt="css3"/>
+<img width="86" height="86" src="https://img.icons8.com/color/96/spring-logo.png" alt="spring-logo"/>
+<img width="" height="40" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=green"/>
+<img width="86" height="86" src="https://img.icons8.com/nolan/96/markdown.png" alt="markdown"/>
+<img width="80" height="80" src="https://img.icons8.com/ultraviolet/80/json.png" alt="json"/>
+</div>
+
+## IDEs <img src = "https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Statistics.gif" width = 25px>
+<div style="display: flex; justify-content: space-between;">
+<img width="86" height="86" src="https://img.icons8.com/color/96/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+<img width="86" height="86" src="https://img.icons8.com/nolan/96/java-eclipse.png" alt="java-eclipse"/>
+<img width="90" height="90" src="https://img.icons8.com/plasticine/100/intellij-idea.png" alt="intellij-idea"/>
+</div>
+<br>
 <br>
 
-<div align=center>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-</div>
-
-<hr>
-
-<div align=center>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  <a href="https://www.linkedin.com/in/igoraguiamg/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-</div>
 
 <div  align=center>
 <a href="https://github.com/IgorAgui">
@@ -30,4 +38,7 @@
 
 <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IgorAgui&layout=compact&langs_count=8&theme=dracula"/>
  </div>
+
+
  
+
