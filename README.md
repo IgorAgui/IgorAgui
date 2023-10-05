@@ -23,7 +23,7 @@
 <img width="86" height="86" src="https://img.icons8.com/color/96/mysql-logo.png" alt="mysql-logo"/>
 </div>
 
-## IDEs <img src = "https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Statistics.gif" width = 25px>
+## IDEs <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true?raw=true" width = 30px>  </picture>
 <div style="display: flex; justify-content: space-between;">
 <img width="86" height="86" src="https://img.icons8.com/color/96/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 <img width="86" height="86" src="https://img.icons8.com/nolan/96/java-eclipse.png" alt="java-eclipse"/>
