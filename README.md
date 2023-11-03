@@ -4,24 +4,18 @@
 <br>
 
 
-## Linguagens de programação <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="20px">
-<div style="display: flex; justify-content: space-between;">
-<img width="90" height="90" src="https://img.icons8.com/plasticine/100/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
-<img width="90" height="90" src="https://img.icons8.com/external-bearicons-glyph-bearicons/64/external-SQL-file-extension-bearicons-glyph-bearicons.png" alt="external-SQL-file-extension-bearicons-glyph-bearicons"/>
-<img width="86" height="86" src="https://img.icons8.com/arcade/128/javascript.png" alt="javascript"/>
-<img src = "https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width = 100px height=100px>
-</div>
+## Technologies & Tools
 
-## Tecnologias e Frameworks <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture>
-<div style="display: flex; justify-content: space-between;">
-<img width="86" height="86" src="https://img.icons8.com/color-glass/96/html-filetype.png" alt="html-filetype"/>
-<img width="86" height="86" src="https://img.icons8.com/dusk/128/css3.png" alt="css3"/>
-<img width="86" height="86" src="https://img.icons8.com/color/96/spring-logo.png" alt="spring-logo"/>
-<img width="" height="40" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=green"/>
-<img width="86" height="86" src="https://img.icons8.com/nolan/96/markdown.png" alt="markdown"/>
-<img width="80" height="80" src="https://img.icons8.com/ultraviolet/80/json.png" alt="json"/>
-<img width="86" height="86" src="https://img.icons8.com/color/96/mysql-logo.png" alt="mysql-logo"/>
-</div>
+[![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://pt.wikipedia.org/wiki/JavaScript)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/pt-BR/)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
+![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
+![]()
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## IDEs <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true?raw=true" width = 30px>  </picture>
 <div style="display: flex; justify-content: space-between;">
