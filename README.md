@@ -22,6 +22,8 @@
 <img width="86" height="86" src="https://img.icons8.com/color/96/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 <img width="86" height="86" src="https://img.icons8.com/nolan/96/java-eclipse.png" alt="java-eclipse"/>
 <img width="90" height="90" src="https://img.icons8.com/plasticine/100/intellij-idea.png" alt="intellij-idea"/>
+<img width="86" height="86" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png"/>
+<img width="80" height="80" src="https://docs.anaconda.com/_static/Anaconda_Icon.png"/>
 </div>
 <br>
 <br>
