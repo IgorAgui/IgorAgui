@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Titan+One&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=Igor+Aguiar)](https://git.io/typing-svg)
 
-<h2 align=center>Olá eu sou o Igor Aguiar, Back-end Developer! </h2>
+<h2 align=center> Back-end Developer, Coffee lover ☕  </h2>
 <br>
 
 
